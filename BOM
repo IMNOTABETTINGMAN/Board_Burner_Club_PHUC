@@ -1,0 +1,77 @@
+Raspberry pi zero 
+https://www.amazon.com/Raspberry-Quad-core-Bluetooth-onboard-Antenna/dp/B0CCRP85TR/ref=sr_1_1?crid=1BXDSKAI6RMFB&dib=eyJ2IjoiMSJ9.0cnQhYiv61HZTY0cmnM_FCDGgwh7Y36Lv501NhaRSDQPoNBNkntEbLu5LQo1NITvVucfVjP91YglcPlqpS4SQWEd_9j_K8NMLVGn-du9nlPcee5I6_ulx3QL_UuaxH3F4lop_7iB_rCZZhYk-ncIZaG0Pjz79BHNrAjM_w87leTnRPtv83Gu7ESEDhr93IPjIMqzr38ExzPZiL_iOOjhmKpQtdMnpZVhKQKNUmUedvM.dvy9cvuwugS_J9sbr8sbMgQYTL6DFRHzhewjQrb1nyQ&dib_tag=se&keywords=raspberry%2Bpi%2Bzero%2Bw&qid=1730282458&sprefix=raspberry%2Bpi%2Bzero%2Bw%2Caps%2C169&sr=8-1&th=1
+Either zero W or Zero 2 W (~$20.  Recommend Zero 2 W as it is quad core).  Microcenter should have these for about $15.
+
+FS90R 360 continuous servo motors
+https://www.amazon.com/dp/B097SZQ4CH?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+Need just two. (pack of 5 $25)
+
+Batteries 
+https://www.amazon.com/dp/B095W4HS75?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+~3000 mAh worth of battery (~$20-30).  Dimension constraints: Length ~55mm, Width ~35mm.  
+
+Battery connectors 
+https://www.amazon.com/dp/B07NWD5NTN?ref=ppx_yo2ov_dt_b_fed_asin_title
+(~$7) Optional.  may solder battery cable directly to charger module.  May want option to remove batteries easily to use in another project.
+
+Battery charger
+https://www.amazon.com/dp/B071RG4YWM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+($7 for pack of 10, only need 1).  TP4056 MicroUSB or USB-C options.
+
+Boost converter (MT3608)
+https://www.amazon.com/dp/B089JYBF25?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+($7 for pack of 10, need 2).  Boosts battery 3.7V nominal to 5V for rpi and servo controller board.
+
+PCA9685 servo controller board 
+https://www.amazon.com/dp/B07GJCPWW2?ref=ppx_yo2ov_dt_b_fed_asin_title
+We'll use these for multiple projects so buy multiple (~$5 each)
+
+Wheel bearings
+https://www.amazon.com/dp/B07JJC9SFK?ref=ppx_yo2ov_dt_b_fed_asin_title
+Need just two ($9)
+
+M2 and M3 screws
+https://www.amazon.com/dp/B0D3X33XGB?ref=ppx_yo2ov_dt_b_fed_asin_title
+Need a bunch of both (~$9)
+
+Arducam 5mp (or raspberry pi cam V2)
+https://www.amazon.com/dp/B012V1HEP4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+($7) comes with ribbon connector.
+
+Raspberry pi cam V2-8mp (or arducam 5mp)
+https://www.amazon.com/dp/B01ER2SKFS?ref=ppx_yo2ov_dt_b_fed_asin_title
+($13).  Need to purchase additional ribbon cable for rpi zero
+
+Raspi zero ribbon cable
+https://www.amazon.com/dp/B0716TB6X3?ref=ppx_yo2ov_dt_b_fed_asin_title
+($7).  For V2 cam.
+
+Ultrasound sensors
+https://www.amazon.com/Organizer-Ultrasonic-Distance-MEGA2560-ElecRight/dp/B07RGB4W8V/ref=sr_1_8?dib=eyJ2IjoiMSJ9.E2SIkElJhtFWCJCHL5Q6YyjuAXpOfXj_4EL-34Ghlozhc2Q7sp73HhuHZOhTCylOsSbY8e8cX7xNZpEcFcg-CjdTKP_BnGOklAJnuvn2LUZp9C5ySlX2AQFczgdRMYYdFyWXkeSgIncV53SC8ViOn1ax4kQJXBoA_VZNIWnxxhJoCub-FxGbZTwl00lew8mb6QOPsmv94atwBGgk2qmlGiRsfEYXuX2UVUVEfgEYiTc.vR98aBOxGcS-i3gixIcbwXZyF1iR6tBxtZ_NFdf2G3M&dib_tag=se&keywords=ultrasound%2Bsensors&qid=1730284492&sr=8-8&th=1
+($9, pack of 5, need 4).
+
+Assorted jumper wires
+https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_2_sspa?crid=3A3WWLK8YNCWJ&dib=eyJ2IjoiMSJ9.I3nSspk5onl8Jong0G-0Eej0s1agLXJoNbNWfIFXRRBGwtmni8koxOME6FWPGKnZ5CHKDEDAn0yGfHrmIpGCcutzURM9iSlynnVId9SSn846XfpaDegUlku9Sp8l8JDaEqYaCETcXvdMmIWhSzj-_Yfx_cWkSJTwJHAra_NtdK3SIVPqMB07yyy7Vv4r04d2pLtrjwA5lryznnszbKg0tNI04nq0AGw_Ebz42JDm1iI.plVc22EHrBMe4YLpEr6INToGKrRKgzvRuhymV4hCfkE&dib_tag=se&keywords=jumper%2Bwires&qid=1730285743&sprefix=jumper%2Bwire%2Caps%2C222&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+($7) You'll want long and short jummper wires mostly female
+
+RGB LEDs
+https://www.amazon.com/Tricolor-Multicolor-Lighting-Electronics-Components/dp/B01C19ENDM/ref=sr_1_2_sspa?crid=RFPIRM1YF2QO&dib=eyJ2IjoiMSJ9.PlRUvW4i9s84qhN4b5MU91sC9C9eIK1TZwVVHrZpAFGITSlrAWhThdbwHSBL662rmYfGful2srsWZ2zbjWXg555X-JTi3jZIXUG8qPt5uGlxAqAAbfBF1Ekv88i1nEXE1lkRXxWixx6Xq_R_mquc3YNTy_8ITvPgDhFqYyiKcW4H0MsLAIg7T6DpL4PE5ykfbFEVwJJvJmpmhVnv_P9QNmly7APZoyViNLTjTqtAFiYF-EKziVTP6g9_o-LDB-Q-iCrZwfS7yDEm3bXwtVMbtHwHYbYziHq3vuUMzHoSUX8.gmmQ7E_IO7ZK87FV_LqoPq4RjjfJ11bDwOroXwC2pks&dib_tag=se&keywords=rgb%2Bled&qid=1730284611&sprefix=rgb%2Bled%2Caps%2C199&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+($9, need 6-7).  No need to buy, I have enough for everyone.
+
+Rubber bands for wheels
+https://www.amazon.com/dp/B0D2HDMYMZ?ref=ppx_yo2ov_dt_b_fed_asin_title
+($6 for a bunch, only need 2).  No need to purchase, I have enough for everyone.
+
+power switches
+https://www.amazon.com/gp/aw/d/B07S2QJKTX?ref=ppx_pt2_mob_b_prod_image
+$8.  Only need 1 per robot.
+
+M1.2 3-5mm screws
+https://www.amazon.com/dp/B0CJJFFCW2?ref=ppx_yo2ov_dt_b_fed_asin_title
+($19).  optional.  May use superglue to place ultrasound sensors instead of screws.
+
+small 20mm fans
+https://www.amazon.com/dp/B08MKP8P3S?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+($12).  optional.  Chassis designed for fan to be installed but phuc may not produce enough heat to require it...
+
+Filament, 3D Print etc. 
