@@ -1,6 +1,7 @@
 Raspberry pi zero 
 https://www.amazon.com/Raspberry-Quad-core-Bluetooth-onboard-Antenna/dp/B0CCRP85TR/ref=sr_1_1?crid=1BXDSKAI6RMFB&dib=eyJ2IjoiMSJ9.0cnQhYiv61HZTY0cmnM_FCDGgwh7Y36Lv501NhaRSDQPoNBNkntEbLu5LQo1NITvVucfVjP91YglcPlqpS4SQWEd_9j_K8NMLVGn-du9nlPcee5I6_ulx3QL_UuaxH3F4lop_7iB_rCZZhYk-ncIZaG0Pjz79BHNrAjM_w87leTnRPtv83Gu7ESEDhr93IPjIMqzr38ExzPZiL_iOOjhmKpQtdMnpZVhKQKNUmUedvM.dvy9cvuwugS_J9sbr8sbMgQYTL6DFRHzhewjQrb1nyQ&dib_tag=se&keywords=raspberry%2Bpi%2Bzero%2Bw&qid=1730282458&sprefix=raspberry%2Bpi%2Bzero%2Bw%2Caps%2C169&sr=8-1&th=1
 Either zero W or Zero 2 W (~$20.  Recommend Zero 2 W as it is quad core).  Microcenter should have these for about $15.
+Reccomend purchase without headders.
 
 FS90R 360 continuous servo motors
 https://www.amazon.com/dp/B097SZQ4CH?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
@@ -69,6 +70,10 @@ $8.  Only need 1 per robot.
 M1.2 3-5mm screws
 https://www.amazon.com/dp/B0CJJFFCW2?ref=ppx_yo2ov_dt_b_fed_asin_title
 ($19).  optional.  May use superglue to place ultrasound sensors instead of screws.
+
+Assorted Resistors
+https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qgmsJNvvpubDcofr-d2aiqhEpLXsDJlARsvAL7ah98RTfa81OATMrODK_mhAxY4hzsCo_LMzUHlGHZvjqAF7yUlq-LoMupuklj8Qyy6frdnMXt8qOZ9mcw_c9OQgXPB0-4JgUNQXQuEnGI2zh7xO_edFzZyfgkBKuVbUpAGfO-8k6VO5J_0eVUEgPoeZjGe0z5t8Q2olN3ga9H2waBH5rDjz8mIDV4YoCsxn52h3SjY.XLqwZ6sYDLENEBtprP6WQdsk7bBUGbaI4Fgw_DZWGq8&dib_tag=se&keywords=assorted%2Bresistors&qid=1731287014&sr=8-3&th=1
+($10).  Should have resistors at baseline...  need to have voltage splitter for the ultrasound sensors before sending signal to raspberry pi.
 
 small 20mm fans
 https://www.amazon.com/dp/B08MKP8P3S?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
