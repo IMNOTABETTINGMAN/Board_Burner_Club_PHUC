@@ -3,6 +3,14 @@ https://www.amazon.com/Raspberry-Quad-core-Bluetooth-onboard-Antenna/dp/B0CCRP85
 Either zero W or Zero 2 W (~$20.  Recommend Zero 2 W as it is quad core).  Microcenter should have these for about $15.
 Reccomend purchase without headders.
 
+Micro SD card
+https://www.amazon.com/PNY-Elite-microSDHC-Memory-P-SDU32GU185GW-GE/dp/B07R8GVGN9/ref=sr_1_13?crid=2CBJYMII6O72C&dib=eyJ2IjoiMSJ9.YHTRkeGp50dh7VHf9hrlAl4nzBohw8o_sgwz_zeWL-8SO_9MTNTLvaxGTmMcKX2lSGWBAgmpM33kwjLTGfR-ASTejaC_GrwryREP4SDuuYlN4_MeHM5bTCAbxpzLrSatlzHEjUQuj2jIIwoblE5DNGCUkcWEcb6Pasl8t9W3_x890qt-WHY2XYpQjCPREWvvJ5Z19I8TV33-U8U-Q70KrjMMxBHx7IiFhMlStQ6JFxc.WhJVrWTropMe71knncNNeEIAcCfSAq35rd8twGuLliQ&dib_tag=se&keywords=micro%2Bsd%2Bcard&qid=1731409298&sprefix=micro%2Bsd%2Bcar%2Caps%2C193&sr=8-13&th=1
+($6) Microcenter has them.  large volume isn't necessary ~32g is fine.  raspian OS and firmware stored on SD card inserted into raspi
+
+Heat sink for rpi
+https://www.amazon.com/Raspberry-Heatsink-Conductive-Adhesive-Aluminum/dp/B082RKKQ2D/ref=sr_1_1_sspa?crid=L914BMPXQV82&dib=eyJ2IjoiMSJ9.cvAZ-lxZ0iMq54x9UtDQFLChvvwAlRSG7RR_tFVm9Sb-d0juqCvHVgg-wKhOHcKwfEC-RSk0zCykUkdPEe9K6-odb0-C1smGlrP4GhhjMai7IB3vWC7sOus7Y0R5pe7VcIyhvI5nknpivLbSO8b6i-T4JJ9eI-bxtPxCgrQodBXd0g81X3czWY5VDef8Raqic1QfkrMtv0UxTCPl9n3nvTl0nCB-gLZWXJ_S2x1YoNo.AgxBgpPYN4xVt4rxIe3g5hCYsQ1-fxncBHCcklRTL2k&dib_tag=se&keywords=raspberry%2Bpi%2Bheat%2Bsinks&qid=1731409530&sprefix=raspberry%2Bpi%2Bheat%2Bsink%2Caps%2C209&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+($7) Box of heat sinks various sizes.  Will be necessary when streaming video and if increasing clock speed of the rpi.
+
 FS90R 360 continuous servo motors
 https://www.amazon.com/dp/B097SZQ4CH?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 Need just two. (pack of 5 $25)
