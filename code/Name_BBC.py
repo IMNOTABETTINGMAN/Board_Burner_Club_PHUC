@@ -72,8 +72,8 @@ class YourName_BBC:
 
         arg23 = ' --left_wheel_neutral ' + str(self.left_wheel_neutral)
         arg24 = ' --right_wheel_neutral ' + str(self.right_wheel_neutral)
-        arg25 = ' --left_wheel_acceleration ' + str(self.left_wheel_acceleration)
-        arg26 = ' --right_wheel_acceleration ' + str(self.right_wheel_acceleration)
+        # arg25 = ' --left_wheel_acceleration ' + str(self.left_wheel_acceleration)
+        # arg26 = ' --right_wheel_acceleration ' + str(self.right_wheel_acceleration)
 
         # camera settings
         #arg27 = ' --camera_width ' + str(self.camera_width)
